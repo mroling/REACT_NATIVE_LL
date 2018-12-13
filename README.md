@@ -28,6 +28,13 @@
 #
 #
 #
+# Download or pull finalp from repository
 #
+# Once you have installed node and npm, install expo using 
+# $ npm install -g expo-cli
+# 
 #
-#
+# Open terminal in directory with finalp
+# $ cd finalp
+# $ npm install
+# $ npm start
