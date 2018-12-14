@@ -21,12 +21,6 @@ https://facebook.github.io/react-native/docs/getting-started
 #
 #
 #
-#
-#
-#
-#
-#
-#
 # Download or pull finalp from repository
 #
 # Once you have installed node and npm, install expo using 
