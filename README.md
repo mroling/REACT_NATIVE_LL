@@ -1,13 +1,7 @@
 # REACT_NATIVE_LL
 #
 #
-#
-#
-#
 #React Native - Linked Lists
-#
-#
-#
 #
 #
 #Install Node/NPM
